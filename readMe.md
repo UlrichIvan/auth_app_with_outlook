@@ -1,4 +1,4 @@
-# Authentication with google API using Oauth2
+# Authentication with outlook API
 
 # Requirements
 
